@@ -1,0 +1,12 @@
+a.toppagetag {
+    text-decoration: none;
+    color: grey;
+    margin-left: 20px;
+}
+a.toppagetag:hover{
+    color:rgb(60, 60, 60)
+}
+input {
+   
+    background-color: rgb(239, 239, 239)    
+}
