@@ -10,3 +10,21 @@ input {
    
     background-color: rgb(239, 239, 239)    
 }
+p {
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 620px;
+    float: right;
+    line-height: 21px;
+}
+a.seemorelink {
+    font-family: georgia, times;
+    font-style:italic;
+    color:#000080;
+    float:right;
+    text-decoration: none;
+    font-weight: bolder;
+}
+a.seemorelink:hover {
+    text-decoration-line: underline;
+}
