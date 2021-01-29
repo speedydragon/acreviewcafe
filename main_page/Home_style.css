@@ -1,0 +1,66 @@
+input {
+   
+    background-color: rgb(239, 239, 239)    
+}
+textarea {
+    font-family: sans-serif;
+    font-size: 90%;
+    background-color: rgb(239, 239, 239);
+    width: 411px;
+    height: 269px;
+}
+a.toppagetag {
+    text-decoration: none;
+    color: grey;
+    margin-left: 20px;
+}
+a.toppagetag:hover{
+    color:rgb(60, 60, 60)
+}
+img.gototop {
+    -webkit-filter: grayscale(100%);
+    opacity: 0.7;
+    padding: 10px;
+    position: fixed;
+    bottom: 75px;
+    right: 40px;
+    }
+    img.gototop:hover{
+        -webkit-filter: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

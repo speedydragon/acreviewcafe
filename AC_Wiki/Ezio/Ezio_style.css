@@ -1,0 +1,159 @@
+p.Pgameplay {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 725px;
+}
+p {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 741px;
+}
+h3 {
+    color: darkred;
+    margin-left: 381px;
+}
+
+input {
+   
+    background-color: rgb(239, 239, 239)    
+}
+a.toppagetag {
+    text-decoration: none;
+    color: grey;
+    margin-left: 20px;
+}
+a.toppagetag:hover {
+    color:rgb(60, 60, 60)
+}
+/* table in the top of page: start */
+table,tr,td {
+    border: black 1px solid;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+tr:nth-child(even) {
+    background-color: rgb(1,1,48);
+    color:white
+}
+tr:hover{
+    background-color: rgb(57, 0, 0);
+    color: white;
+}
+/* End */
+
+
+img.gototop {
+    -webkit-filter: grayscale(100%);
+    opacity: 0.7;
+    padding: 10px;
+    position: fixed;
+    bottom: 75px;
+    right: 40px;
+    }
+    img.gototop:hover{
+        -webkit-filter: none;
+    }
+    div.altairIdentity {
+        background-color: rgb(205, 205, 205);
+        width: 270px;
+        font-family: sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        -webkit-border-radius: 6px;
+        margin-left:-10px;
+        padding: 0.1px;
+    
+    }
+    span.AltairIdentity {
+        color: #000080;
+        font-style: italic;
+        font-family: georgia, times;
+    }
+    ol {
+        font-weight: bold;
+        font-family: sans-serif;
+        width: 773px;
+    }
+    a.GamePlayTag {
+        color: darkred;
+        text-decoration: none;
+
+    }
+    a.GamePlayTag:hover {
+        text-decoration-line: underline;
+        font-weight: bolder;
+        font-style: italic;
+    }
+    div.lastarticletag {
+        background-color:#DDD;
+        padding: 8px;
+        font-family: 'colaborate-lightregular',arial;
+        color: #333;
+        -webkit-border-radius: 6px;
+        width:714px;
+    }
+    span.lastarticletag{
+        font-weight: bold;
+        color: #E06900;
+        font-size: 15px;
+        font-style: normal;
+        font-family: sans-serif;
+    }
+    span a.lastarticletag {
+        color: #ff8400;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    span a.lastarticletag:hover {
+        text-decoration-line: underline;
+    }
+    textarea {
+        font-family: sans-serif;
+        font-size: 90%;
+        background-color: rgb(239, 239, 239);
+        width: 411px;
+        height: 269px; 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

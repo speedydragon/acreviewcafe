@@ -48,12 +48,7 @@ a.toppagetag {
 a.toppagetag:hover{
     color:rgb(60, 60, 60)
 }
-div.lastpicture img {
-    border: black 0.1px solid;
-    width: 194px;
-    height: 320px;
-    margin-left:-4px;
-}
+
 div.lastarticletag {
     background-color:#DDD;
     padding: 8px;

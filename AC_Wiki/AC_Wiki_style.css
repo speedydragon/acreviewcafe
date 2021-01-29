@@ -14,7 +14,6 @@ p {
     font-family: sans-serif;
     font-weight: bold;
     width: 620px;
-    float: right;
     line-height: 21px;
 }
 a.seemorelink {
@@ -28,3 +27,18 @@ a.seemorelink {
 a.seemorelink:hover {
     text-decoration-line: underline;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

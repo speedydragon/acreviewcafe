@@ -64,3 +64,53 @@ ol {
 i.AltairA {
     color: #000080;
 }
+img.gototop {
+    -webkit-filter: grayscale(100%);
+    opacity: 0.7;
+    padding: 10px;
+    position: fixed;
+    bottom: 75px;
+    right: 40px;
+    }
+img.gototop:hover {
+    -webkit-filter: none;
+}
+div.lastarticletag {
+    background-color:#DDD;
+    padding: 8px;
+    font-family: 'colaborate-lightregular',arial;
+    color: #333;
+    -webkit-border-radius: 6px;
+    width:714px;
+}
+span.lastarticletag{
+    font-weight: bold;
+    color: #E06900;
+    font-size: 15px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+span a.lastarticletag {
+    color: #ff8400;
+    text-decoration: none;
+    font-weight: bold;
+}
+span a.lastarticletag:hover {
+    text-decoration-line: underline;
+}
+textarea {
+    font-family: sans-serif;
+    font-size: 90%;
+    background-color: rgb(239, 239, 239);
+    width: 411px;
+    height: 269px;
+   
+}
+a.GamePlayTag{
+    text-decoration: none;
+}
+a.GamePlayTag:hover {
+    text-decoration-line: underline;
+    font-weight: bolder;
+    font-style: italic;
+}
